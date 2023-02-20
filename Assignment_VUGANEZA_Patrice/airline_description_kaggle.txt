@@ -1,0 +1,93 @@
+
+I.
+
+
+Airline Data Project
+About Dataset
+
+This dataset is sourced from the Airline Data Project established by the MIT Global Airline Industry Program. It describes financial metrics for Individual airlines, airline sectors and the industry as a whole for the American commercial airline industry. The Original data from the source is collected in the zip file "Original MIT data" and the data relating to Airline finances and the main industry metrics has been cleaned and written into csv files for ease of use.
+
+MIT ADP Description
+The U.S. commercial airline industry is one of the most diverse, dynamic and perplexing in the world. It is fast-evolving, labor intensive, capital intensive, hyper-competitive and highly susceptible to the ebb and flow of business cycles as well as being among the most regulated of deregulated businesses.
+
+The Airline Data Project (ADP) was established by the MIT Global Airline Industry Program to better understand the opportunities, risks and challenges facing this vital industry. The ADP presents the most important airline industry data in one location in an easy-to-understand, user-friendly format.
+
+The data on this website is sourced from the U.S. Department of Transportation's Form 41 data product. It has been selected and analyzed to present a view of the industry and its important trends, as well as to identify fundamental drivers of success - and in some cases, the early signs of potential failure.
+
+The ADP is designed to support the goals of the MIT Airline Industry Consortium. It is a unique repository of data and analysis that will allow individuals – from academia to the financial community to the news media – to monitor the evolution of the U.S. commercial airline industry.
+
+The ADP is updated in June of each year pending the release of Form 41 data files by the U.S. Bureau of Transportation Statistics. The last update of the ADP was in June 2020 for calendar year 2019 data. If you have questions about what items are included in various Form 41 data categories, you can refer to the U.S. DOT's Form 41 Financial Reporting Categories Item List Guide.
+
+You are invited to review the data on this site and share your feedback on the wealth of information that is available about this highly visible industry.
+
+Glossary:
+Aircraft Utilization
+Measure of aircraft productivity, calculated by dividing aircraft block hours by the number of aircraft days assigned to service on air carrier routes. Typically presented in block hours per day.
+
+Available Seat Miles (ASMs)
+A common industry measurement of airline output that refers to one aircraft seat flown one mile, whether occupied or not. An aircraft with 100 passenger seats, flown a distance of 100 miles, generates 10,000 available seat miles.
+
+Average Aircraft Capacity
+Average seating configuration of an airline’s operating fleet. The measure is derived by dividing total available seat miles flown by the number of aircraft miles flown. It is important to understand the average aircraft size as it is an important determinant of employees needed to service the operation of a particular airline.
+
+Block Hour
+Time from the moment the aircraft door closes at departure of a revenue flight until the moment the aircraft door opens at the arrival gate following its landing. Block hours are the industry standard measure of aircraft utilization (see above).
+
+Cost per Available Seat Mile (CASM)
+Measure of unit cost in the airline industry. CASM is calculated by taking all of an airline’s operating expenses and dividing it by the total number of available seat miles produced. Sometimes, fuel or transport-related expenses are withheld from CASM calculations to better isolate and directly compare operating expenses.
+
+Unit Cost per Unit of Output
+A measurement that gauges total operating costs in relation to output.
+
+Form 41 Data
+Information derived from airline filings with the Bureau of Transportation Statistics. Airline financial data is filed with the BTS quarterly; traffic and employment numbers are filed monthly.
+
+Load Factor
+The number of Revenue Passenger Miles (RPMs) expressed as a percentage of ASMs, either on a particular flight or for the entire system. Load factor represents the proportion of airline output that is actually consumed. To calculate this figure, divide RPMs by ASMs. Load factor for a single flight can also be calculated by dividing the number of passengers by the number of seats.
+
+Operating Revenue
+Revenues received from total airline operations including scheduled and non-scheduled service. Sources of revenue include passenger, cargo, excess baggage and certain other transport-related revenue.
+
+Passenger Revenue
+Revenue received by the airline from the carriage of passengers in scheduled operations.
+
+Passenger Revenue per Available Seat Mile (PRASM)
+Often referred to as a measure of passenger “unit revenue.” It is calculated by dividing passenger revenue by available seat miles. Typically the measure is presented in terms of cents per mile. This measure is equivalent to the product of load factor and passenger yield (see below).
+
+Passenger Yield
+Measure of average fare paid per mile, per passenger, calculated by dividing passenger revenue by revenue passenger miles (RPMs). Typically the measure is presented in cents per mile and is useful measure in assessing changes in fares over time. Yield is not useful for comparisons across markets and/or airlines, as it varies dramatically by stage length and does not incorporate load factor (unlike PRASM).
+
+Revenue per Available Seat Mile (RASM)
+Also called "unit revenue," this figure is calculated by dividing the airline’s total revenue by its total the available seat miles.
+
+Revenue Passenger Miles (RPMs)
+This is the basic measure of airline passenger traffic. It reflects how many of an airline's available seats were actually sold. For example, if 200 passengers fly 500 miles on a flight, this generates 100,000 RPMs.
+
+Revenue per Employee
+One measure to determine an airline’s labor productivity. It is calculated by dividing an airline’s total revenue by the number of airline employee full-time equivalents as reported to the US Department of Transportation.
+
+Stage Length
+The average distance flown, measure in statute miles, per aircraft departure. The measure is calculated by dividing total aircraft miles flown by the number of total aircraft departures performed.
+
+Stage Length Adjusted Total Revenue per Equivalent Seat Mile (SLA TRESM)
+A common practice utilized to normalize comparisons of TRASM between carriers. Operating costs and revenues are significantly impacted by the distance flown and this analytical approach is designed to compare results as if all carriers fly the same missions.
+
+Stage Length Adjusted Passenger Revenue per Equivalent Seat Mile (SLA PRESM)
+A common practice utilized to normalize comparisons of PRASM between carriers. Operating costs and revenues are significantly impacted by the distance flown and this analytical approach is designed to compare results as if all carriers fly the same missions.
+
+Stage Length Adjusted Passenger Yield (Passenger Revenue Per Revenue Passenger Mile)
+A common practice utilized to normalize comparisons of Passenger Yield between carriers. Operating costs and revenues are significantly impacted by the distance flown and this analytical approach is designed to compare results as if all carriers fly the same missions.
+
+Total Revenue per Available Seat Mile (TRASM)
+Often referred to as a measure of unit revenue. It is calculated by dividing total operating revenue by available seat miles. Typically the measure is presented in terms of cents per mile.
+
+Transport-Related Revenues (Costs)
+Transport-related revenues (or costs) are revenues (or costs) that result from service operated by a regional affiliate of a network carrier. Such revenues (or costs) are often excluded from RASM or CASM calculations to allow network carriers to be compared directly with carriers that do not offer service using regional affiliates.
+
+
+
+
+
+
+
+II. 
